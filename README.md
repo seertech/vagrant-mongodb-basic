@@ -1,4 +1,4 @@
 vagrant-mongodb-basic
 =====================
 
-Basic MongoDB setup using Vagrant
+Basic (Generic) MongoDB setup using Vagrant
